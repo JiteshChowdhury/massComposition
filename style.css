@@ -1,0 +1,14 @@
+body{
+    background-color: #050505;
+    text-align:center;
+  }
+  
+h1,h4{
+	color: #ffffff;
+	font-family: 'Dosis';
+	font-size: 40px;
+}
+#canvas {
+	margin:0;
+	
+}
